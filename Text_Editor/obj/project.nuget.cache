@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "33+eKUFuZvncjCNmHThs53XbteKcgH8F80BwDBerINtKmWzi5pkqqrXnrDd/CSQL9l6gA4ZYzuXVGBBC+X5+hw==",
+  "dgSpecHash": "wLHYqp9Njt/gwudqKOp3oFd3eGF+c/Nk1jmMSKnOO3wjHGmolYNAGfTDiRVKw/dqpiitauPYGCLlt8H2zDATKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Text_Editor.csproj",
   "expectedPackageFiles": [
@@ -21,9 +21,9 @@
     "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
     "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
-    "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
-    "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
-    "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.4\\microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
+    "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
+    "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",
+    "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.7\\microsoft.entityframeworkcore.analyzers.8.0.7.nupkg.sha512",
     "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.4\\microsoft.entityframeworkcore.design.8.0.4.nupkg.sha512",
     "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.4\\microsoft.entityframeworkcore.relational.8.0.4.nupkg.sha512",
     "C:\\Users\\ludwi\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.4\\microsoft.entityframeworkcore.sqlserver.8.0.4.nupkg.sha512",
