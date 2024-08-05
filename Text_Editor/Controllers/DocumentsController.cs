@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +12,7 @@ using Text_Editor.Models;
 
 namespace Text_Editor.Controllers
 {
+    [Authorize]
     public class DocumentsController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -48,7 +51,7 @@ namespace Text_Editor.Controllers
         // GET: Documents/Create
         public IActionResult Create()
         {
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id");
+            
             return View();
         }
 
@@ -65,7 +68,7 @@ namespace Text_Editor.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", document.UserId);
+            
             return View(document);
         }
 
@@ -82,7 +85,12 @@ namespace Text_Editor.Controllers
             {
                 return NotFound();
             }
-            ViewData["UserId"] = new SelectList(_context.Users, "Id", "Id", document.UserId);
+            // if the user id of the document does not match the id of the current logged in user, we return not found
+            if (document.UserId != User.FindFirstValue(ClaimTypes.NameIdentifier))
+            {
+                return NotFound();
+            }
+
             return View(document);
         }
 
@@ -134,6 +142,11 @@ namespace Text_Editor.Controllers
                 .Include(d => d.User)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (document == null)
+            {
+                return NotFound();
+            }
+            // if the user id of the document does not match the id of the current logged in user, we return not found
+            if (document.UserId != User.FindFirstValue(ClaimTypes.NameIdentifier))
             {
                 return NotFound();
             }
