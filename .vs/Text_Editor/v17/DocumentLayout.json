@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\text_editor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\text_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\text_editor\\text_editor\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\text_editor\\text_editor\\views\\documents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\views\\documents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\text_editor\\text_editor\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\text_editor\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\text_editor\\text_editor\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\text_editor\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\text_editor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|c:\\users\\ludwi\\onedrive\\desktop\\coding\\projects\\text_editor\\text_editor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\text_editor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\text_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|solutionrelative:text_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE1472BD-7BC7-4CF9-AD24-50A5AD76C860}|Text_Editor\\Text_Editor.csproj|C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\text_editor\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,37 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Views\\Documents\\Index.cshtml",
+              "RelativeDocumentMoniker": "Text_Editor\\Views\\Documents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Views\\Documents\\Index.cshtml",
+              "RelativeToolTip": "Text_Editor\\Views\\Documents\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T13:47:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Views\\Documents\\Edit.cshtml",
               "RelativeDocumentMoniker": "Text_Editor\\Views\\Documents\\Edit.cshtml",
               "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Views\\Documents\\Edit.cshtml",
               "RelativeToolTip": "Text_Editor\\Views\\Documents\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-05T13:32:16.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Text_Editor\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Text_Editor\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-05T13:23:57.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Views\\Documents\\Create.cshtml",
               "RelativeDocumentMoniker": "Text_Editor\\Views\\Documents\\Create.cshtml",
@@ -84,25 +101,24 @@
               "RelativeToolTip": "Text_Editor\\Views\\Documents\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T13:13:26.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T13:13:26.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DocumentsController.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Controllers\\DocumentsController.cs",
               "RelativeDocumentMoniker": "Text_Editor\\Controllers\\DocumentsController.cs",
               "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Controllers\\DocumentsController.cs",
               "RelativeToolTip": "Text_Editor\\Controllers\\DocumentsController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDsAAAA4AAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwEIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T12:42:06.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20240805123849_initial migration.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Data\\Migrations\\20240805123849_initial migration.cs",
               "RelativeDocumentMoniker": "Text_Editor\\Data\\Migrations\\20240805123849_initial migration.cs",
@@ -114,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\appsettings.json",
               "RelativeDocumentMoniker": "Text_Editor\\appsettings.json",
@@ -126,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Text_Editor\\Data\\ApplicationDbContext.cs",
@@ -134,12 +150,11 @@
               "RelativeToolTip": "Text_Editor\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T12:30:47.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T12:30:47.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Models\\Document.cs",
               "RelativeDocumentMoniker": "Text_Editor\\Models\\Document.cs",
@@ -151,15 +166,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Program.cs",
               "RelativeDocumentMoniker": "Text_Editor\\Program.cs",
               "ToolTip": "C:\\Users\\ludwi\\OneDrive\\Desktop\\Coding\\Projects\\Text_Editor\\Text_Editor\\Program.cs",
               "RelativeToolTip": "Text_Editor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T12:22:03.199Z"
+              "WhenOpened": "2024-08-05T12:22:03.199Z",
+              "EditorCaption": ""
             }
           ]
         }
